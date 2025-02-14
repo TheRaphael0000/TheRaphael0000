@@ -1,4 +1,4 @@
 ```bash
-╭─raphael@desktop /home/raphael/TheRaphael0000 ‹master*›
-╰─$ git commit -am "idk i just pushed buttons"; git push
+╭─raphael@desktop /home/raphael/TheRaphael0000 ‹main*›
+╰─$ git commit -am "welcome to my page!"; git push
 ```
